@@ -30,3 +30,4 @@ C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJ
 C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.pdb
 C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.genruntimeconfig.cache
 C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\ref\MundialJugadores.dll
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.sourcelink.json
