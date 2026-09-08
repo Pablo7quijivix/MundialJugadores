@@ -1,0 +1,14 @@
+J002|Marco Rossi|Italia|Mediocampista|480|2|4|2|0|6
+J003|Kenji Tanaka|Japon|Delantero|510|4|1|0|0|6
+J004|Ahmed Hassan|Egipto|Defensa|600|1|0|3|0|6
+J005|Erik Johansson|Suecia|Portero|600|0|0|0|0|6
+J006|Diego Fernandez|Uruguay|Delantero|450|6|1|1|0|5
+J007|Paul Muller|Alemania|Mediocampista|520|3|5|1|0|6
+J008|Carlos Silva|Brasil|Delantero|470|7|3|2|0|6
+J009|James Wilson|Inglaterra|Defensa|560|0|1|2|1|6
+J010|Youssef Amrani|Marruecos|Mediocampista|500|2|2|1|0|6
+J011|Nicolas Duval|Francia|Delantero|530|5|4|0|0|6
+J012|Ivan Petrov|Serbia|Defensa|610|1|0|4|1|6
+J013|Hiroshi Sato|Japon|Portero|600|0|0|0|0|6
+J014|Andres Gomez|Colombia|Mediocampista|495|3|3|1|0|6
+J015|Luca Bianchi|Italia|Defensa|540|0|1|2|0|6

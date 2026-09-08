@@ -1,0 +1,32 @@
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\bin\Debug\net8.0\Datos\jugadores.csv
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\bin\Debug\net8.0\Datos\jugadores.txt
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.exe
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.deps.json
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.runtimeconfig.json
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.dll
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.pdb
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.AssemblyInfoInputs.cache
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.AssemblyInfo.cs
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.csproj.CoreCompileInputs.cache
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.dll
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\obj\Debug\net8.0\refint\MundialJugadores.dll
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.pdb
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.genruntimeconfig.cache
+C:\Users\quiji\Downloads\MundialJugadores\MundialJugadores\obj\Debug\net8.0\ref\MundialJugadores.dll
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\bin\Debug\net8.0\Datos\jugadores.csv
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\bin\Debug\net8.0\Datos\jugadores.txt
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.exe
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.deps.json
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.runtimeconfig.json
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.dll
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\bin\Debug\net8.0\MundialJugadores.pdb
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.AssemblyInfoInputs.cache
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.AssemblyInfo.cs
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.csproj.CoreCompileInputs.cache
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.dll
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\refint\MundialJugadores.dll
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.pdb
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\MundialJugadores.genruntimeconfig.cache
+C:\Ingeniera en Sistemas URL 2025\4to_semestre_2026\EDD2\PROYECTOS_EDD2\MundialJugadores\MundialJugadores\obj\Debug\net8.0\ref\MundialJugadores.dll

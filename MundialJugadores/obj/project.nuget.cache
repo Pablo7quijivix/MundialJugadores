@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yefhIOzw/RA=",
+  "success": true,
+  "projectFilePath": "C:\\Ingeniera en Sistemas URL 2025\\4to_semestre_2026\\EDD2\\PROYECTOS_EDD2\\MundialJugadores\\MundialJugadores\\MundialJugadores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quiji\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\quiji\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\quiji\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\quiji\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.30\\microsoft.netcore.app.host.win-x64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
